@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Tech-nerd with big aspirations. Ever since I accidentally stumbled upon the field of computer science, I've learned so many things and met so many great people. The opportunities and connections that the process of pursuing this field has brought me are unparalleled. All I wish to do now is give back to this visionary community.
 <!--
 **ArnavKumarCodeNext/ArnavKumarCodeNext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
