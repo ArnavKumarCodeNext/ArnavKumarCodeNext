@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Arnav</h1>
-<h3 align="center">A tech nerd with big aspirations</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **getting my GIAC Foundational Cybersecurity Technologies certification.**
 
